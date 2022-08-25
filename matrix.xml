@@ -1,0 +1,24 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+   <view name="system">
+	<video name="system-background2" extra="true">
+       <path>./_inc/videos/default_marquee.m4v</path>	
+       <path>./_inc/matrix.m4v</path>	
+         <pos>0.19 0.07</pos>
+         <size>0.312 0.132</size>
+         <zIndex>11</zIndex> 			 
+    </video>
+   </view>
+
+   <view name="video,detailed,basic,grid,gamecarousel">
+	<video name="system-background2" extra="true">
+       <default>./_inc/videos/default_marquee.m4v</default>		
+       <path>./_inc/matrix.m4v</path>	
+         <pos>0.19 0.07</pos>
+         <size>0.312 0.132</size>
+         <zIndex>94</zIndex> 		 
+    </video>
+   </view>  
+   
+    </theme>

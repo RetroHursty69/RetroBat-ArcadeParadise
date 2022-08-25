@@ -1,0 +1,34 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+      <view name="system">
+
+     <image name="logo">
+       <linearSmooth>true</linearSmooth>
+	   <path>./_inc/images/wheel_default.png</path>
+	   <path>./${system.theme}/_inc/system1.png</path>
+	   </image>
+       </view>
+    <view name="video,basic,detailed">
+	<image name="logo" extra="true">
+       <linearSmooth>true</linearSmooth>
+	   <path>./_inc/images/wheel_default.png</path>
+	   <path>./${system.theme}/_inc/system1.png</path>	   
+         <pos>0.085 0.065</pos>
+         <size>0.18 0.16</size>
+         <zIndex>450</zIndex>   		 
+      </image>	  
+   </view> 
+    <view name="grid">
+	<image name="logo" extra="true">
+       <linearSmooth>true</linearSmooth>
+	   <path>./_inc/images/wheel_default.png</path>
+	   <path>./${system.theme}/_inc/system1.png</path>	   
+         <pos>0.75 0.83</pos>
+         <size>0.22 0.15</size>
+         <zIndex>450</zIndex>   		 
+      </image>	  
+   </view> 
+
+   
+    </theme>

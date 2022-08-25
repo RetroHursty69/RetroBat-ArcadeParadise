@@ -1,0 +1,12 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+   <view name="system">
+	<image name="system-background10" extra="true">			 
+      </image> 	  
+   </view>  
+<view name="gamecarousel">	 
+	<image name="system-background10" extra="true">		 
+      </image> 	  
+ </view>   
+    </theme>

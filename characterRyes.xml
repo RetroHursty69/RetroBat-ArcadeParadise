@@ -1,0 +1,14 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+   <view name="system">
+	<image name="system-background9" extra="true">
+       <path>./_inc/character.png</path>			 
+      </image> 	  
+   </view>  
+<view name="gamecarousel">	 
+	<image name="system-background9" extra="true">
+       <path>./_inc/character.png</path>			 
+      </image> 	  
+ </view>   
+    </theme>

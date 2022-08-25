@@ -1,0 +1,24 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+     <view name="system">
+     <image name="logo">
+	   </image>
+	<image name="system-background" extra="true">		 	
+      </image> 
+	 <video name="backgroundvideo" extra="true">
+     </video>
+	 <image name="backgroundvideoborder" extra="true">
+     </image>		 
+       </view>
+
+	   
+     <view name="video,basic,detailed,grid,carousel">
+ 	<image name="system-background2" extra="true">		 	
+      </image>
+ 	<image name="logo" extra="true">		 		
+      </image> 
+ 	<image name="md_marquee" extra="true">		 		
+      </image> 		  
+   </view>  
+    </theme>

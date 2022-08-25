@@ -1,0 +1,70 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+     <view name="system">
+	 <video name="system-background4" extra="true">
+        <path>./_inc/videos/loop.mp4</path>
+     </video> 		  
+   </view> 
+
+  <view name="video,detailed">
+	<video name="background" extra="true">
+       <path>./_inc/videos/loop.mp4</path>	
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <zIndex>1</zIndex> 		 
+      </video>   
+      <image name="md_marquee">
+         <pos>1.705 0.85</pos>
+         <maxSize>0.12 0.08</maxSize>
+         <zIndex>7</zIndex>         
+      </image>  
+      <image name="background2" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>       
+         <path>./_inc/images/video.png</path>
+         <zIndex>2</zIndex>          
+      </image>  	  
+    </view>
+   
+  <view name="basic">
+	<video name="background" extra="true">
+       <path>./_inc/videos/loop.mp4</path>	
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <zIndex>1</zIndex> 		 
+      </video>   
+      <image name="background2" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>       
+         <path>./_inc/images/basic.png</path>
+         <zIndex>2</zIndex>          
+      </image>  	  
+    </view>   
+  
+  <view name="gamecarousel">
+	<video name="background" extra="true">
+       <path>./_inc/videos/loop.mp4</path>	
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <zIndex>1</zIndex> 		 
+      </video>   
+      <image name="md_marquee">
+         <pos>1.705 0.85</pos>
+         <maxSize>0.12 0.08</maxSize>
+         <zIndex>7</zIndex>         
+      </image>   	  
+    </view>
+
+  <view name="grid">
+	<video name="background" extra="true">
+       <path>./_inc/videos/loop.mp4</path>	
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <zIndex>1</zIndex> 		 
+      </video>   
+    </view>
+	
+    </theme>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+
+<view name="splash">
+		<splash name="splash">
+			<backgroundColor>FFFFFFFF</backgroundColor>
+		</splash>
+
+		<image name="background">
+			<path>./_inc/images/splash.png</path>
+		</image>
+	</view>
+</theme>
