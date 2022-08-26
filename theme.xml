@@ -371,6 +371,7 @@ Metadata, description, rating etc
 		<pos>0 0</pos>
 		<origin>0 0</origin>
 		<zIndex>42</zIndex>
+        <opacity>0.6</opacity>			
 		</image>		 
 	<image name="background3" extra="true">
        <path>./_inc/cab.png</path>	
