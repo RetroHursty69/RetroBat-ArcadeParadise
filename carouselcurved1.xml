@@ -81,6 +81,7 @@
 		<pos>0 0</pos>
 		<origin>0 0</origin>
 		<path>./_inc/images/C_Green.png</path>
+        <opacity>0.6</opacity>			
 		<zIndex>42</zIndex>
 		</image> 
        </view>
@@ -101,7 +102,7 @@
          </gamecarousel>
 		 
 		<image name="background7" extra="true">
-		<path>./_inc/images/C_Green.png</path>
+		<path>./_inc/images/C_Green.png</path>		
 		</image>		 
  </view>	   
 	   

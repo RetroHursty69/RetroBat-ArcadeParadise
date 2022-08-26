@@ -80,6 +80,7 @@
 		<origin>0 0</origin>
 		<path>./_inc/images/S_Blue.png</path>
 		<zIndex>42</zIndex>
+        <opacity>0.6</opacity>			
 		</image> 
        </view>
 
